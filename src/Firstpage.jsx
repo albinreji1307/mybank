@@ -47,7 +47,7 @@ export default function Navbar() {
                 }}
               >
                 <Button style={{ color: "black"  }} >
-                DASHBOARD
+                User Dashboard
                 </Button>
               </NavLink>
               
